@@ -19,6 +19,10 @@ Create and manage user accounts in Active Directory
 ### Tools Used
 - Windows Server 2022
 - Active Directory Users and Computers (ADUC)
+</p>
+<br />
 
-<img width="1082" height="683" alt="Screenshot-UM1" src="https://github.com/user-attachments/assets/600bf97b-4066-4f8b-8e43-158cb87ab148" />
-<img width="1080" height="665" alt="Screenshot UM2" src="https://github.com/user-attachments/assets/07991ef0-f5e2-43ee-97d8-4b6230045e3e" />
+<p>
+1. Created a new user, Kyle Mason
+<img width="1080" height="665" alt="Screenshot UM2" src="https://github.com/user-attachments/assets/627d90d4-9eed-4de7-b19f-b6075660e0b6" />
+
