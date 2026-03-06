@@ -23,6 +23,4 @@ Create and manage user accounts in Active Directory
 <br />
 
 <p>
-1. Created a new user, Kyle Mason
-<img width="1080" height="665" alt="Screenshot UM2" src="https://github.com/user-attachments/assets/627d90d4-9eed-4de7-b19f-b6075660e0b6" />
-
+1. Created a new user, 
