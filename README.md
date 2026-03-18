@@ -22,6 +22,8 @@ Learn how to create and manage user accounts in Active Directory
 </p>
 <br />
 
+### Steps Performed
+
 <p>
 1. Created new user Michael Johnson 
 <img width="1470" height="956" alt="Screenshot 2026-03-05 at 9 18 09 PM" src="https://github.com/user-attachments/assets/0264d8c1-fc7a-4b20-8552-40766c98d707" />
